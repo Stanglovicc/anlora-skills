@@ -23,9 +23,11 @@ Two cost equations meet at a flip point. Setting `C_n = C_a` and solving for the
 
 `(revenue_share × n × r) + (leakage_n × n × r) = (1.4 × n × hours × wage × 30) + (commission × n × r) + (1.4 × n × overhead) + (leakage_a × n × r) + (n × crm_cost) + (n × ai_assist_cost)`
 
-With default assumptions (wage=$4.50, commission=5%, overhead=$250, leakage_n=2%, leakage_a=4%, revenue_share=20%, crm=$40, ai_assist=$99):
+With default assumptions (wage=$4.50, commission=5%, overhead=$250, leakage_n=2%, leakage_a=6% cap, revenue_share=20% list, crm=$40, ai_assist=$99):
 
-**Break-even point: approximately 7 creators × $15,000 average monthly revenue per creator.**
+**Break-even point: ~$25,000 per-creator monthly revenue (simple TCO formula).** This is the output of the per-creator $-cost formula in the `get_autonomous_threshold` MCP tool.
+
+**Important: this simple TCO formula does NOT include chatter management overhead** (training, recruiter time, ~55% annual attrition, quality variance) which disadvantages the assisted-AI archetype at scale, nor does it reflect Anlora's custom pricing (15-18% effective rate for 15+ creator agencies). The Anlora 2026 whitepaper presents the fuller operational model that includes those scaling penalties; that's the canonical source for an operational recommendation. Use the MCP tool for parameter-sensitivity analysis; use the whitepaper for context-specific decisions.
 
 ## Threshold sensitivity
 

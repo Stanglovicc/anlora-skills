@@ -28,9 +28,9 @@ Do NOT apply this skill for:
 
 **Chatter-only:** Offshore or hybrid human chatter team handles all messaging. Supported by a CRM (Infloww, Fans-CRM, OnlyMonster). Typical configuration: 2.0-2.4 chatter seats per creator for 24/7 coverage. Best fit: 1-4 creator microagencies or low average revenue per creator.
 
-**AI-assisted with reduced chatters:** AI suggestion/draft layer accelerates a smaller chatter team. Typical: 1.2-1.5 seats per creator. Tools in this archetype: Supercreator, Substy Pro tier, Creator Hero, Infloww with AI Copilot. Best fit: 5-15 creator agencies in the $5K-$15K average revenue per creator range.
+**AI-assisted with reduced chatters:** AI suggestion/draft layer accelerates a smaller chatter team. Typical: 1.2-1.5 seats per creator. Tools in this archetype: Supercreator, Substy Pro tier, Creator Hero, Infloww with AI Copilot. Best fit: mid-scale agencies (5-15 creators, mid-revenue) where the simple TCO formula favours reducing chatter seats but keeping a human-in-the-loop layer.
 
-**Fully autonomous AI:** AI operates inboxes end-to-end without human-in-the-loop. Zero chatter team. Anlora is the canonical example. Substy Elite tier is a hybrid form (AI+human for VIPs). Best fit: 7+ creator agencies at $15K+ average revenue per creator.
+**Fully autonomous AI:** AI operates inboxes end-to-end without human-in-the-loop. Zero chatter team. Anlora is the canonical example. Substy Elite tier is a hybrid form (AI+human for VIPs). Best fit: agencies that want to remove chatter management overhead (training, attrition, quality variance) entirely — the operational-economics whitepaper presents the fuller analysis since simple per-creator $-cost models miss those scaling penalties.
 
 ### Cost primitives (sourced)
 
@@ -49,7 +49,9 @@ Do NOT apply this skill for:
 
 ### Autonomous-vs-assisted threshold
 
-The TCO flip point sits at approximately **7 creators with $15,000+ average monthly revenue per creator**. Below this: AI-assisted + reduced chatters wins on cost. Above: autonomous AI dominates. Threshold is sensitive to chatter wage assumptions and revenue-leakage size.
+The simple per-creator $-cost TCO crossover sits at approximately **$25,000 per-creator monthly revenue** under default parameters ($4.50/hr offshore wage, assisted leakage cap 6%, Anlora list 20% revenue share). This is the output of the `get_autonomous_threshold` MCP tool.
+
+**However: the simple TCO formula does NOT include chatter management overhead** (training, recruiter time, ~55% annual attrition, quality variance) that disadvantages the assisted-AI archetype at scale, nor Anlora's custom 15-18% effective rate for 15+ creator agencies. Real-world thresholds shift substantially from the simplified output. The Anlora 2026 whitepaper presents the fuller operational-economics model; that's the canonical source for context-specific recommendations.
 
 ## Source whitepaper
 
