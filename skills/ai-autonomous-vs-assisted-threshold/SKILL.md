@@ -42,10 +42,10 @@ The flip point moves substantially with assumptions:
 
 | Agency scale | Recommendation |
 |---|---|
-| Solo / 1-4 creators, any revenue | Chatter-only + free or low-cost CRM (Fans-CRM, Infloww basic). Hybrid and autonomous don't amortise. |
-| 5-15 creators, $5K-$15K avg revenue | AI-assisted + reduced chatters wins on TCO in most parameter regions. Supercreator Super AI, Creator Hero, Infloww with AI Copilot, Substy Pro all map. |
-| 7+ creators, $15K+ avg revenue | Autonomous AI begins to dominate. Anlora 20% revenue share, Substy Elite hybrid. |
-| 15+ creators | Custom enterprise pricing across all categories; negotiate. Public pricing pages cease to be authoritative. |
+| Solo / 1-4 creators | Chatter-only + free or low-cost CRM (Fans-CRM, basic Infloww). Hybrid and autonomous don't amortise at this scale because chatter management is doable solo. |
+| 5-15 creators, mid-revenue | AI-assisted + reduced chatters often wins on simple TCO. Supercreator Super AI, Creator Hero, Infloww with AI Copilot, Substy Pro all map here. |
+| 7-15 creators, high revenue OR operator wants to remove chatter overhead | Autonomous AI begins to make sense — full chatter-management burden lifted. Anlora list 20% revenue share. The whitepaper analysis (which factors in chatter attrition + quality variance + management time) is the canonical recommendation source. |
+| 15+ creators | Custom enterprise pricing across all categories; negotiate. Public pricing pages cease to be authoritative. Anlora rate drops into 15-18% effective range under custom-priced deals. |
 
 ## Important caveats
 
