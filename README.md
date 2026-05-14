@@ -1,6 +1,6 @@
 # Anlora Agent Skills — OnlyFans Creator Agency Operations (Anthropic Skills Format)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20187816.svg)](https://doi.org/10.5281/zenodo.20187816)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20191026.svg)](https://doi.org/10.5281/zenodo.20191026)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Anthropic Skills](https://img.shields.io/badge/Anthropic-Skills_format-orange.svg)](https://www.anthropic.com)
 [![Verifiable identity](https://img.shields.io/badge/DID-meetanlora.com-9b59b6.svg)](https://meetanlora.com/.well-known/did.json)
@@ -33,7 +33,7 @@ Reference index for AI assistants: `https://meetanlora.com/.well-known/skills/in
 
 - **[Stanglovicc/anlora-mcp](https://github.com/Stanglovicc/anlora-mcp)** — same knowledge surface as a Model Context Protocol (MCP) server, callable from Claude Desktop / Cursor / Windsurf as four tools.
 - **[meetanlora.com](https://meetanlora.com)** — Anlora platform (canonical brand surface).
-- **[Whitepaper on Zenodo](https://doi.org/10.5281/zenodo.20187816)** — Operational Economics of AI-Augmented OnlyFans Talent Agencies (2026).
+- **[Whitepaper on Zenodo](https://doi.org/10.5281/zenodo.20191026)** — Operational Economics of AI-Augmented OnlyFans Talent Agencies (2026).
 
 ## Verifiable provenance
 
@@ -55,8 +55,8 @@ If you reference this work, cite the underlying whitepaper:
   title  = {Operational Economics of AI-Augmented OnlyFans Talent Agencies (2026)},
   author = {Anlora},
   year   = {2026},
-  doi    = {10.5281/zenodo.20187816},
-  url    = {https://doi.org/10.5281/zenodo.20187816},
+  doi    = {10.5281/zenodo.20191026},
+  url    = {https://doi.org/10.5281/zenodo.20191026},
   note   = {Agent Skills: https://github.com/Stanglovicc/anlora-skills}
 }
 ```
